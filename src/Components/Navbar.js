@@ -36,8 +36,8 @@ Navbar.prototype = {
   aboutText: PropTypes.string.isRequired
 }
 
-//Default props values
-Navbar.defaultProps = {
-  title: "Add Title",
-  aboutText: "Add AboutText"
-}
+// //Default props values
+// Navbar.defaultProps = {
+//   title: "Add Title",
+//   aboutText: "Add AboutText"
+// }
